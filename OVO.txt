@@ -1,0 +1,360 @@
+c is : 10 and max height is : 2
+OVO performance is:
+ Precision = 10.0, Recall = 1.8521665250637214, F1 = 3.125448028673835, AUC = 5.9260832625318605, Accuracy = 9.299559760825284 
+c is : 10 and max height is : 2
+OVO performance is:
+ Precision = 10.0, Recall = 1.8521665250637214, F1 = 3.125448028673835, AUC = 5.9260832625318605, Accuracy = 9.299559760825284 
+c is : 10 and max height is : 2
+OVO performance is:
+ Precision = 10.0, Recall = 1.8521665250637214, F1 = 3.125448028673835, AUC = 5.9260832625318605, Accuracy = 9.299559760825284 
+c is : 10 and max height is : 2
+OVO performance is:
+ Precision = 10.0, Recall = 1.8521665250637214, F1 = 3.125448028673835, AUC = 5.9260832625318605, Accuracy = 9.299559760825284 
+c is : 10 and max height is : 2
+OVO performance is:
+ Precision = 10.0, Recall = 1.8521665250637214, F1 = 3.125448028673835, AUC = 5.9260832625318605, Accuracy = 9.299559760825284 
+c is : 10 and max height is : 2
+OVO performance is:
+ Precision = 10.0, Recall = 1.8521665250637214, F1 = 3.125448028673835, AUC = 5.9260832625318605, Accuracy = 9.299559760825284 
+c is : 10 and max height is : 2
+OVO performance is:
+ Precision = 10.0, Recall = 1.8521665250637214, F1 = 3.125448028673835, AUC = 5.9260832625318605, Accuracy = 9.299559760825284 
+c is : 10 and max height is : 2
+OVO performance is:
+ Precision = 10.0, Recall = 1.8521665250637214, F1 = 3.125448028673835, AUC = 5.9260832625318605, Accuracy = 9.299559760825284 
+c is : 10 and max height is : 2
+OVO performance is:
+ Precision = 10.0, Recall = 1.8521665250637214, F1 = 3.125448028673835, AUC = 5.9260832625318605, Accuracy = 9.299559760825284 
+c is : 10 and max height is : 2
+OVO performance is:
+ Precision = 10.0, Recall = 1.8521665250637214, F1 = 3.125448028673835, AUC = 5.9260832625318605, Accuracy = 9.299559760825284 
+c is : 10 and max height is : 3
+OVO performance is:
+ Precision = 10.0, Recall = 1.8521665250637214, F1 = 3.125448028673835, AUC = 5.9260832625318605, Accuracy = 9.299559760825284 
+c is : 10 and max height is : 3
+OVO performance is:
+ Precision = 10.0, Recall = 1.8521665250637214, F1 = 3.125448028673835, AUC = 5.9260832625318605, Accuracy = 9.299559760825284 
+c is : 10 and max height is : 3
+OVO performance is:
+ Precision = 10.0, Recall = 1.8521665250637214, F1 = 3.125448028673835, AUC = 5.9260832625318605, Accuracy = 9.299559760825284 
+c is : 10 and max height is : 3
+OVO performance is:
+ Precision = 10.0, Recall = 1.8521665250637214, F1 = 3.125448028673835, AUC = 5.9260832625318605, Accuracy = 9.299559760825284 
+c is : 10 and max height is : 3
+OVO performance is:
+ Precision = 10.0, Recall = 1.8521665250637214, F1 = 3.125448028673835, AUC = 5.9260832625318605, Accuracy = 9.299559760825284 
+c is : 10 and max height is : 3
+OVO performance is:
+ Precision = 10.0, Recall = 1.8521665250637214, F1 = 3.125448028673835, AUC = 5.9260832625318605, Accuracy = 9.299559760825284 
+c is : 10 and max height is : 3
+OVO performance is:
+ Precision = 10.0, Recall = 1.8521665250637214, F1 = 3.125448028673835, AUC = 5.9260832625318605, Accuracy = 9.299559760825284 
+c is : 10 and max height is : 3
+OVO performance is:
+ Precision = 10.0, Recall = 1.8521665250637214, F1 = 3.125448028673835, AUC = 5.9260832625318605, Accuracy = 9.299559760825284 
+c is : 10 and max height is : 3
+OVO performance is:
+ Precision = 10.0, Recall = 1.8521665250637214, F1 = 3.125448028673835, AUC = 5.9260832625318605, Accuracy = 9.299559760825284 
+c is : 10 and max height is : 3
+OVO performance is:
+ Precision = 10.0, Recall = 1.8521665250637214, F1 = 3.125448028673835, AUC = 5.9260832625318605, Accuracy = 9.299559760825284 
+c is : 10 and max height is : 4
+OVO performance is:
+ Precision = 10.0, Recall = 1.35089209855565, F1 = 2.380239520958084, AUC = 5.675446049277825, Accuracy = 9.299559760825284 
+c is : 10 and max height is : 4
+OVO performance is:
+ Precision = 10.0, Recall = 1.35089209855565, F1 = 2.380239520958084, AUC = 5.675446049277825, Accuracy = 9.299559760825284 
+c is : 10 and max height is : 4
+OVO performance is:
+ Precision = 10.0, Recall = 1.35089209855565, F1 = 2.380239520958084, AUC = 5.675446049277825, Accuracy = 9.299559760825284 
+c is : 10 and max height is : 4
+OVO performance is:
+ Precision = 10.0, Recall = 1.35089209855565, F1 = 2.380239520958084, AUC = 5.675446049277825, Accuracy = 9.299559760825284 
+c is : 10 and max height is : 4
+OVO performance is:
+ Precision = 10.0, Recall = 1.35089209855565, F1 = 2.380239520958084, AUC = 5.675446049277825, Accuracy = 9.299559760825284 
+c is : 10 and max height is : 4
+OVO performance is:
+ Precision = 10.0, Recall = 1.35089209855565, F1 = 2.380239520958084, AUC = 5.675446049277825, Accuracy = 9.299559760825284 
+c is : 10 and max height is : 4
+OVO performance is:
+ Precision = 10.0, Recall = 1.35089209855565, F1 = 2.380239520958084, AUC = 5.675446049277825, Accuracy = 9.299559760825284 
+c is : 10 and max height is : 4
+OVO performance is:
+ Precision = 10.0, Recall = 1.35089209855565, F1 = 2.380239520958084, AUC = 5.675446049277825, Accuracy = 9.299559760825284 
+c is : 10 and max height is : 4
+OVO performance is:
+ Precision = 10.0, Recall = 1.35089209855565, F1 = 2.380239520958084, AUC = 5.675446049277825, Accuracy = 9.299559760825284 
+c is : 10 and max height is : 4
+OVO performance is:
+ Precision = 10.0, Recall = 1.35089209855565, F1 = 2.380239520958084, AUC = 5.675446049277825, Accuracy = 9.299559760825284 
+c is : 10 and max height is : 5
+OVO performance is:
+ Precision = 10.0, Recall = 1.35089209855565, F1 = 2.380239520958084, AUC = 5.675446049277825, Accuracy = 9.299559760825284 
+c is : 10 and max height is : 5
+OVO performance is:
+ Precision = 10.0, Recall = 1.35089209855565, F1 = 2.380239520958084, AUC = 5.675446049277825, Accuracy = 9.299559760825284 
+c is : 10 and max height is : 5
+OVO performance is:
+ Precision = 10.0, Recall = 1.35089209855565, F1 = 2.380239520958084, AUC = 5.675446049277825, Accuracy = 9.299559760825284 
+c is : 10 and max height is : 5
+OVO performance is:
+ Precision = 10.0, Recall = 1.35089209855565, F1 = 2.380239520958084, AUC = 5.675446049277825, Accuracy = 9.299559760825284 
+c is : 10 and max height is : 5
+OVO performance is:
+ Precision = 10.0, Recall = 1.35089209855565, F1 = 2.380239520958084, AUC = 5.675446049277825, Accuracy = 9.299559760825284 
+c is : 10 and max height is : 5
+OVO performance is:
+ Precision = 10.0, Recall = 1.35089209855565, F1 = 2.380239520958084, AUC = 5.675446049277825, Accuracy = 9.299559760825284 
+c is : 10 and max height is : 5
+OVO performance is:
+ Precision = 10.0, Recall = 1.35089209855565, F1 = 2.380239520958084, AUC = 5.675446049277825, Accuracy = 9.299559760825284 
+c is : 10 and max height is : 5
+OVO performance is:
+ Precision = 10.0, Recall = 1.35089209855565, F1 = 2.380239520958084, AUC = 5.675446049277825, Accuracy = 9.299559760825284 
+c is : 10 and max height is : 5
+OVO performance is:
+ Precision = 10.0, Recall = 1.35089209855565, F1 = 2.380239520958084, AUC = 5.675446049277825, Accuracy = 9.299559760825284 
+c is : 10 and max height is : 5
+OVO performance is:
+ Precision = 10.0, Recall = 1.35089209855565, F1 = 2.380239520958084, AUC = 5.675446049277825, Accuracy = 9.299559760825284 
+c is : 50 and max height is : 2
+OVO performance is:
+ Precision = 10.0, Recall = 1.8521665250637214, F1 = 3.125448028673835, AUC = 5.9260832625318605, Accuracy = 9.299559760825284 
+c is : 50 and max height is : 2
+OVO performance is:
+ Precision = 10.0, Recall = 1.8521665250637214, F1 = 3.125448028673835, AUC = 5.9260832625318605, Accuracy = 9.299559760825284 
+c is : 50 and max height is : 2
+OVO performance is:
+ Precision = 10.0, Recall = 1.8521665250637214, F1 = 3.125448028673835, AUC = 5.9260832625318605, Accuracy = 9.299559760825284 
+c is : 50 and max height is : 2
+OVO performance is:
+ Precision = 10.0, Recall = 1.8521665250637214, F1 = 3.125448028673835, AUC = 5.9260832625318605, Accuracy = 9.299559760825284 
+c is : 50 and max height is : 2
+OVO performance is:
+ Precision = 10.0, Recall = 1.8521665250637214, F1 = 3.125448028673835, AUC = 5.9260832625318605, Accuracy = 9.299559760825284 
+c is : 50 and max height is : 2
+OVO performance is:
+ Precision = 10.0, Recall = 1.8521665250637214, F1 = 3.125448028673835, AUC = 5.9260832625318605, Accuracy = 9.299559760825284 
+c is : 50 and max height is : 2
+OVO performance is:
+ Precision = 10.0, Recall = 1.8521665250637214, F1 = 3.125448028673835, AUC = 5.9260832625318605, Accuracy = 9.299559760825284 
+c is : 50 and max height is : 2
+OVO performance is:
+ Precision = 10.0, Recall = 1.8521665250637214, F1 = 3.125448028673835, AUC = 5.9260832625318605, Accuracy = 9.299559760825284 
+c is : 50 and max height is : 2
+OVO performance is:
+ Precision = 10.0, Recall = 1.8521665250637214, F1 = 3.125448028673835, AUC = 5.9260832625318605, Accuracy = 9.299559760825284 
+c is : 50 and max height is : 2
+OVO performance is:
+ Precision = 10.0, Recall = 1.8521665250637214, F1 = 3.125448028673835, AUC = 5.9260832625318605, Accuracy = 9.299559760825284 
+c is : 50 and max height is : 3
+OVO performance is:
+ Precision = 10.0, Recall = 1.8521665250637214, F1 = 3.125448028673835, AUC = 5.9260832625318605, Accuracy = 9.299559760825284 
+c is : 50 and max height is : 3
+OVO performance is:
+ Precision = 10.0, Recall = 1.8521665250637214, F1 = 3.125448028673835, AUC = 5.9260832625318605, Accuracy = 9.299559760825284 
+c is : 50 and max height is : 3
+OVO performance is:
+ Precision = 10.0, Recall = 1.8521665250637214, F1 = 3.125448028673835, AUC = 5.9260832625318605, Accuracy = 9.299559760825284 
+c is : 50 and max height is : 3
+OVO performance is:
+ Precision = 10.0, Recall = 1.8521665250637214, F1 = 3.125448028673835, AUC = 5.9260832625318605, Accuracy = 9.299559760825284 
+c is : 50 and max height is : 3
+OVO performance is:
+ Precision = 10.0, Recall = 1.8521665250637214, F1 = 3.125448028673835, AUC = 5.9260832625318605, Accuracy = 9.299559760825284 
+c is : 50 and max height is : 3
+OVO performance is:
+ Precision = 10.0, Recall = 1.8521665250637214, F1 = 3.125448028673835, AUC = 5.9260832625318605, Accuracy = 9.299559760825284 
+c is : 50 and max height is : 3
+OVO performance is:
+ Precision = 10.0, Recall = 1.8521665250637214, F1 = 3.125448028673835, AUC = 5.9260832625318605, Accuracy = 9.299559760825284 
+c is : 50 and max height is : 3
+OVO performance is:
+ Precision = 10.0, Recall = 1.8521665250637214, F1 = 3.125448028673835, AUC = 5.9260832625318605, Accuracy = 9.299559760825284 
+c is : 50 and max height is : 3
+OVO performance is:
+ Precision = 10.0, Recall = 1.8521665250637214, F1 = 3.125448028673835, AUC = 5.9260832625318605, Accuracy = 9.299559760825284 
+c is : 50 and max height is : 3
+OVO performance is:
+ Precision = 10.0, Recall = 1.8521665250637214, F1 = 3.125448028673835, AUC = 5.9260832625318605, Accuracy = 9.299559760825284 
+c is : 50 and max height is : 4
+OVO performance is:
+ Precision = 10.0, Recall = 1.35089209855565, F1 = 2.380239520958084, AUC = 5.675446049277825, Accuracy = 9.299559760825284 
+c is : 50 and max height is : 4
+OVO performance is:
+ Precision = 10.0, Recall = 1.35089209855565, F1 = 2.380239520958084, AUC = 5.675446049277825, Accuracy = 9.299559760825284 
+c is : 50 and max height is : 4
+OVO performance is:
+ Precision = 10.0, Recall = 1.35089209855565, F1 = 2.380239520958084, AUC = 5.675446049277825, Accuracy = 9.299559760825284 
+c is : 50 and max height is : 4
+OVO performance is:
+ Precision = 10.0, Recall = 1.35089209855565, F1 = 2.380239520958084, AUC = 5.675446049277825, Accuracy = 9.299559760825284 
+c is : 50 and max height is : 4
+OVO performance is:
+ Precision = 10.0, Recall = 1.35089209855565, F1 = 2.380239520958084, AUC = 5.675446049277825, Accuracy = 9.299559760825284 
+c is : 50 and max height is : 4
+OVO performance is:
+ Precision = 10.0, Recall = 1.35089209855565, F1 = 2.380239520958084, AUC = 5.675446049277825, Accuracy = 9.299559760825284 
+c is : 50 and max height is : 4
+OVO performance is:
+ Precision = 10.0, Recall = 1.35089209855565, F1 = 2.380239520958084, AUC = 5.675446049277825, Accuracy = 9.299559760825284 
+c is : 50 and max height is : 4
+OVO performance is:
+ Precision = 10.0, Recall = 1.35089209855565, F1 = 2.380239520958084, AUC = 5.675446049277825, Accuracy = 9.299559760825284 
+c is : 50 and max height is : 4
+OVO performance is:
+ Precision = 10.0, Recall = 1.35089209855565, F1 = 2.380239520958084, AUC = 5.675446049277825, Accuracy = 9.299559760825284 
+c is : 50 and max height is : 4
+OVO performance is:
+ Precision = 10.0, Recall = 1.35089209855565, F1 = 2.380239520958084, AUC = 5.675446049277825, Accuracy = 9.299559760825284 
+c is : 50 and max height is : 5
+OVO performance is:
+ Precision = 10.0, Recall = 1.35089209855565, F1 = 2.380239520958084, AUC = 5.675446049277825, Accuracy = 9.299559760825284 
+c is : 50 and max height is : 5
+OVO performance is:
+ Precision = 10.0, Recall = 1.35089209855565, F1 = 2.380239520958084, AUC = 5.675446049277825, Accuracy = 9.299559760825284 
+c is : 50 and max height is : 5
+OVO performance is:
+ Precision = 10.0, Recall = 1.35089209855565, F1 = 2.380239520958084, AUC = 5.675446049277825, Accuracy = 9.299559760825284 
+c is : 50 and max height is : 5
+OVO performance is:
+ Precision = 10.0, Recall = 1.35089209855565, F1 = 2.380239520958084, AUC = 5.675446049277825, Accuracy = 9.299559760825284 
+c is : 50 and max height is : 5
+OVO performance is:
+ Precision = 10.0, Recall = 1.35089209855565, F1 = 2.380239520958084, AUC = 5.675446049277825, Accuracy = 9.299559760825284 
+c is : 50 and max height is : 5
+OVO performance is:
+ Precision = 10.0, Recall = 1.35089209855565, F1 = 2.380239520958084, AUC = 5.675446049277825, Accuracy = 9.299559760825284 
+c is : 50 and max height is : 5
+OVO performance is:
+ Precision = 10.0, Recall = 1.35089209855565, F1 = 2.380239520958084, AUC = 5.675446049277825, Accuracy = 9.299559760825284 
+c is : 50 and max height is : 5
+OVO performance is:
+ Precision = 10.0, Recall = 1.35089209855565, F1 = 2.380239520958084, AUC = 5.675446049277825, Accuracy = 9.299559760825284 
+c is : 50 and max height is : 5
+OVO performance is:
+ Precision = 10.0, Recall = 1.35089209855565, F1 = 2.380239520958084, AUC = 5.675446049277825, Accuracy = 9.299559760825284 
+c is : 50 and max height is : 5
+OVO performance is:
+ Precision = 10.0, Recall = 1.35089209855565, F1 = 2.380239520958084, AUC = 5.675446049277825, Accuracy = 9.299559760825284 
+c is : 500 and max height is : 2
+OVO performance is:
+ Precision = 10.0, Recall = 1.8521665250637214, F1 = 3.125448028673835, AUC = 5.9260832625318605, Accuracy = 9.299559760825284 
+c is : 500 and max height is : 2
+OVO performance is:
+ Precision = 10.0, Recall = 1.8521665250637214, F1 = 3.125448028673835, AUC = 5.9260832625318605, Accuracy = 9.299559760825284 
+c is : 500 and max height is : 2
+OVO performance is:
+ Precision = 10.0, Recall = 1.8521665250637214, F1 = 3.125448028673835, AUC = 5.9260832625318605, Accuracy = 9.299559760825284 
+c is : 500 and max height is : 2
+OVO performance is:
+ Precision = 10.0, Recall = 1.8521665250637214, F1 = 3.125448028673835, AUC = 5.9260832625318605, Accuracy = 9.299559760825284 
+c is : 500 and max height is : 2
+OVO performance is:
+ Precision = 10.0, Recall = 1.8521665250637214, F1 = 3.125448028673835, AUC = 5.9260832625318605, Accuracy = 9.299559760825284 
+c is : 500 and max height is : 2
+OVO performance is:
+ Precision = 10.0, Recall = 1.8521665250637214, F1 = 3.125448028673835, AUC = 5.9260832625318605, Accuracy = 9.299559760825284 
+c is : 500 and max height is : 2
+OVO performance is:
+ Precision = 10.0, Recall = 1.8521665250637214, F1 = 3.125448028673835, AUC = 5.9260832625318605, Accuracy = 9.299559760825284 
+c is : 500 and max height is : 2
+OVO performance is:
+ Precision = 10.0, Recall = 1.8521665250637214, F1 = 3.125448028673835, AUC = 5.9260832625318605, Accuracy = 9.299559760825284 
+c is : 500 and max height is : 2
+OVO performance is:
+ Precision = 10.0, Recall = 1.8521665250637214, F1 = 3.125448028673835, AUC = 5.9260832625318605, Accuracy = 9.299559760825284 
+c is : 500 and max height is : 2
+OVO performance is:
+ Precision = 10.0, Recall = 1.8521665250637214, F1 = 3.125448028673835, AUC = 5.9260832625318605, Accuracy = 9.299559760825284 
+c is : 500 and max height is : 3
+OVO performance is:
+ Precision = 10.0, Recall = 1.8521665250637214, F1 = 3.125448028673835, AUC = 5.9260832625318605, Accuracy = 9.299559760825284 
+c is : 500 and max height is : 3
+OVO performance is:
+ Precision = 10.0, Recall = 1.8521665250637214, F1 = 3.125448028673835, AUC = 5.9260832625318605, Accuracy = 9.299559760825284 
+c is : 500 and max height is : 3
+OVO performance is:
+ Precision = 10.0, Recall = 1.8521665250637214, F1 = 3.125448028673835, AUC = 5.9260832625318605, Accuracy = 9.299559760825284 
+c is : 500 and max height is : 3
+OVO performance is:
+ Precision = 10.0, Recall = 1.8521665250637214, F1 = 3.125448028673835, AUC = 5.9260832625318605, Accuracy = 9.299559760825284 
+c is : 500 and max height is : 3
+OVO performance is:
+ Precision = 10.0, Recall = 1.8521665250637214, F1 = 3.125448028673835, AUC = 5.9260832625318605, Accuracy = 9.299559760825284 
+c is : 500 and max height is : 3
+OVO performance is:
+ Precision = 10.0, Recall = 1.8521665250637214, F1 = 3.125448028673835, AUC = 5.9260832625318605, Accuracy = 9.299559760825284 
+c is : 500 and max height is : 3
+OVO performance is:
+ Precision = 10.0, Recall = 1.8521665250637214, F1 = 3.125448028673835, AUC = 5.9260832625318605, Accuracy = 9.299559760825284 
+c is : 500 and max height is : 3
+OVO performance is:
+ Precision = 10.0, Recall = 1.8521665250637214, F1 = 3.125448028673835, AUC = 5.9260832625318605, Accuracy = 9.299559760825284 
+c is : 500 and max height is : 3
+OVO performance is:
+ Precision = 10.0, Recall = 1.8521665250637214, F1 = 3.125448028673835, AUC = 5.9260832625318605, Accuracy = 9.299559760825284 
+c is : 500 and max height is : 3
+OVO performance is:
+ Precision = 10.0, Recall = 1.8521665250637214, F1 = 3.125448028673835, AUC = 5.9260832625318605, Accuracy = 9.299559760825284 
+c is : 500 and max height is : 4
+OVO performance is:
+ Precision = 10.0, Recall = 1.8521665250637214, F1 = 3.125448028673835, AUC = 5.9260832625318605, Accuracy = 9.299559760825284 
+c is : 500 and max height is : 4
+OVO performance is:
+ Precision = 10.0, Recall = 1.8521665250637214, F1 = 3.125448028673835, AUC = 5.9260832625318605, Accuracy = 9.299559760825284 
+c is : 500 and max height is : 4
+OVO performance is:
+ Precision = 10.0, Recall = 1.8521665250637214, F1 = 3.125448028673835, AUC = 5.9260832625318605, Accuracy = 9.299559760825284 
+c is : 500 and max height is : 4
+OVO performance is:
+ Precision = 10.0, Recall = 1.8521665250637214, F1 = 3.125448028673835, AUC = 5.9260832625318605, Accuracy = 9.299559760825284 
+c is : 500 and max height is : 4
+OVO performance is:
+ Precision = 10.0, Recall = 1.8521665250637214, F1 = 3.125448028673835, AUC = 5.9260832625318605, Accuracy = 9.299559760825284 
+c is : 500 and max height is : 4
+OVO performance is:
+ Precision = 10.0, Recall = 1.8521665250637214, F1 = 3.125448028673835, AUC = 5.9260832625318605, Accuracy = 9.299559760825284 
+c is : 500 and max height is : 4
+OVO performance is:
+ Precision = 10.0, Recall = 1.8521665250637214, F1 = 3.125448028673835, AUC = 5.9260832625318605, Accuracy = 9.299559760825284 
+c is : 500 and max height is : 4
+OVO performance is:
+ Precision = 10.0, Recall = 1.8521665250637214, F1 = 3.125448028673835, AUC = 5.9260832625318605, Accuracy = 9.299559760825284 
+c is : 500 and max height is : 4
+OVO performance is:
+ Precision = 10.0, Recall = 1.8521665250637214, F1 = 3.125448028673835, AUC = 5.9260832625318605, Accuracy = 9.299559760825284 
+c is : 500 and max height is : 4
+OVO performance is:
+ Precision = 10.0, Recall = 1.8521665250637214, F1 = 3.125448028673835, AUC = 5.9260832625318605, Accuracy = 9.299559760825284 
+c is : 500 and max height is : 5
+OVO performance is:
+ Precision = 10.0, Recall = 1.8521665250637214, F1 = 3.125448028673835, AUC = 5.9260832625318605, Accuracy = 9.299559760825284 
+c is : 500 and max height is : 5
+OVO performance is:
+ Precision = 10.0, Recall = 1.8521665250637214, F1 = 3.125448028673835, AUC = 5.9260832625318605, Accuracy = 9.299559760825284 
+c is : 500 and max height is : 5
+OVO performance is:
+ Precision = 10.0, Recall = 1.8521665250637214, F1 = 3.125448028673835, AUC = 5.9260832625318605, Accuracy = 9.299559760825284 
+c is : 500 and max height is : 5
+OVO performance is:
+ Precision = 10.0, Recall = 1.8521665250637214, F1 = 3.125448028673835, AUC = 5.9260832625318605, Accuracy = 9.299559760825284 
+c is : 500 and max height is : 5
+OVO performance is:
+ Precision = 10.0, Recall = 1.8521665250637214, F1 = 3.125448028673835, AUC = 5.9260832625318605, Accuracy = 9.299559760825284 
+c is : 500 and max height is : 5
+OVO performance is:
+ Precision = 10.0, Recall = 1.8521665250637214, F1 = 3.125448028673835, AUC = 5.9260832625318605, Accuracy = 9.299559760825284 
+c is : 500 and max height is : 5
+OVO performance is:
+ Precision = 10.0, Recall = 1.8521665250637214, F1 = 3.125448028673835, AUC = 5.9260832625318605, Accuracy = 9.299559760825284 
+c is : 500 and max height is : 5
+OVO performance is:
+ Precision = 10.0, Recall = 1.8521665250637214, F1 = 3.125448028673835, AUC = 5.9260832625318605, Accuracy = 9.299559760825284 
+c is : 500 and max height is : 5
+OVO performance is:
+ Precision = 10.0, Recall = 1.8521665250637214, F1 = 3.125448028673835, AUC = 5.9260832625318605, Accuracy = 9.299559760825284 
+c is : 500 and max height is : 5
+OVO performance is:
+ Precision = 10.0, Recall = 1.8521665250637214, F1 = 3.125448028673835, AUC = 5.9260832625318605, Accuracy = 9.299559760825284 
